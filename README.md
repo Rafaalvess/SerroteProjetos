@@ -1,2 +1,3 @@
 # SerroteProjetos
-Meu primeiro repositorio 
+Meu primeiro repositorio, criado em aula ao vivo! 
+
